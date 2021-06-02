@@ -2,10 +2,12 @@
 
 header {
   background-color: #ffcccc;
+  width: 1000px;
 }
 
 #wrapper {
   display: flex;
+  width: 1000px;
 }
 
 #main {
@@ -20,4 +22,5 @@ header {
 
 footer {
   background-color: #ffccff;
+  width: 1000px;
 }
